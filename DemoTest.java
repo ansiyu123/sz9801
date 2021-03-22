@@ -16,6 +16,8 @@ public class DemoTest {
             }
             System.out.println();
         }
+		
+		sout
 
     }
 
